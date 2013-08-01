@@ -1,10 +1,10 @@
 //////////////////////////////////////////////
 /// Programa No.    -> 3
 /// *Descripcion.   -> Hace operaciones
-/// *Desarrollador. -> Alfonso Alvarez Sánchez
+/// *Desarrollador. -> Alfonso Alvarez Sï¿½nchez
 /// *Fecha.         -> 23 / 09 / 2011
 /// Equipo          -> Individual
-/// Notas           -> Lo dificil de este es más que nada el proceso. 
+/// Notas           -> Lo dificil de este es mï¿½s que nada el proceso. 
 ///////////////////////////////////////////////
 
 using System;
@@ -17,7 +17,7 @@ namespace Programa3
     class Program
     {
         ///**************************************
-        ///***  A partir de aqui Está la lista
+        ///***  A partir de aqui Estï¿½ la lista
         ///***
         ///***************************************
 
@@ -289,7 +289,7 @@ namespace Programa3
 
 
 
-            Console.WriteLine("TEST 1: Las betas y correlacion entre tamaño de proxy y agregadas y modificadas es: ");
+            Console.WriteLine("TEST 1: Las betas y correlacion entre tamaï¿½o de proxy y agregadas y modificadas es: ");
             double betaProxyVsActual = DatosProxy.obtenerBeta1(DatosProxy, DatosActual);
             double betaProxyVsActual2 = DatosProxy.obtenerBeta0(DatosProxy, DatosActual);
             double Correlacion = DatosProxy.obtenerCorrelacion(DatosProxy, DatosActual);
@@ -301,7 +301,7 @@ namespace Programa3
 
             Console.ReadLine();
 
-            Console.WriteLine("TEST 2: Las betas y correlacion entre tamaño de proxy y tiempo actual de desarrollo es: ");
+            Console.WriteLine("TEST 2: Las betas y correlacion entre tamaï¿½o de proxy y tiempo actual de desarrollo es: ");
             double betaProxyVsTiempo = DatosProxy.obtenerBeta1(DatosProxy, DatosHoras);
             double betaProxyVsTiempo2 = DatosProxy.obtenerBeta0(DatosProxy, DatosHoras);
             double Correlacion2 = DatosProxy.obtenerCorrelacion(DatosProxy, DatosHoras);
