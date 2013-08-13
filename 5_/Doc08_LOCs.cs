@@ -2,10 +2,10 @@
 /// CLASE PARA CALCULAR INTEGRAL PROGRAMA 5
 /// Programa No.    -> 5
 /// *Descripcion.   -> Hace un calculo de intgral de cero a un limite. 
-/// *Desarrollador. -> Alfonso Alvarez Sánchez
+/// *Desarrollador. -> Alfonso Alvarez Sï¿½nchez
 /// *Fecha.         -> 20 / 10 / 2011
 /// Equipo          -> Individual
-/// Notas           -> Calcula integral en ciertos parámetros.  
+/// Notas           -> Calcula integral en ciertos parï¿½metros.  
 ///////////////////////////////////////////////
 using System;
 using System.Collections.Generic;
@@ -43,10 +43,10 @@ namespace Programa5
 /// CLASE PARA CALCULAR INTEGRAL PROGRAMA 5
 /// Programa No.    -> 5
 /// *Descripcion.   -> Hace un calculo de intgral de cero a un limite. 
-/// *Desarrollador. -> Alfonso Alvarez Sánchez
+/// *Desarrollador. -> Alfonso Alvarez Sï¿½nchez
 /// *Fecha.         -> 20 / 10 / 2011
 /// Equipo          -> Individual
-/// Notas           -> Calcula integral en ciertos parámetros.  
+/// Notas           -> Calcula integral en ciertos parï¿½metros.  
 ///////////////////////////////////////////////
 using System;
 using System.Collections.Generic;
