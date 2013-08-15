@@ -2,7 +2,7 @@
 /// CLASE PARA ENCONTRAR X DE UNA INTEGRAL
 /// Programa No.    -> 6
 /// *Descripcion.   -> Encuentra la X necesaria del resultado de una integral 
-/// *Desarrollador. -> Alfonso Alvarez Sánchez
+/// *Desarrollador. -> Alfonso Alvarez Sï¿½nchez
 /// *Fecha.         -> 28 / 10 / 2011
 /// Equipo          -> Individual
 /// Notas           -> Calcula la x en una integral  
@@ -39,7 +39,7 @@ namespace Programa6
 /// CLASE PARA ENCONTRAR X DE UNA INTEGRAL
 /// Programa No.    -> 6
 /// *Descripcion.   -> Encuentra la X necesaria del resultado de una integral 
-/// *Desarrollador. -> Alfonso Alvarez Sánchez
+/// *Desarrollador. -> Alfonso Alvarez Sï¿½nchez
 /// *Fecha.         -> 28 / 10 / 2011
 /// Equipo          -> Individual
 /// Notas           -> Calcula la x en una integral  
@@ -97,10 +97,10 @@ namespace Programa6
 /// CLASE PARA CALCULAR INTEGRAL PROGRAMA 5
 /// Programa No.    -> 5
 /// *Descripcion.   -> Hace un calculo de intgral de cero a un limite. 
-/// *Desarrollador. -> Alfonso Alvarez Sánchez
+/// *Desarrollador. -> Alfonso Alvarez Sï¿½nchez
 /// *Fecha.         -> 20 / 10 / 2011
 /// Equipo          -> Individual
-/// Notas           -> Calcula integral en ciertos parámetros.  
+/// Notas           -> Calcula integral en ciertos parï¿½metros.  
 ///////////////////////////////////////////////
 using System;
 using System.Collections.Generic;
