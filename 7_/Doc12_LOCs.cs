@@ -63,8 +63,8 @@ namespace Programa7
 
             Funciones F = new Funciones();
             double Correlacion = F.obtenerCorrelacion(DatosProxy, DatosActual);
-            Console.WriteLine("Correlación: " + Correlacion);
-            Console.WriteLine("Correlación cuadrada: " + Math.Pow(Correlacion, 2));
+            Console.WriteLine("Correlaciï¿½n: " + Correlacion);
+            Console.WriteLine("Correlaciï¿½n cuadrada: " + Math.Pow(Correlacion, 2));
             double X = F.calcularX(DatosProxy, DatosActual);
             double cola = F.calcularCola(X, DatosProxy.Count);
             Console.WriteLine("Cola: " + "{0:#.#####e+00}", cola);
@@ -83,8 +83,8 @@ namespace Programa7
             Console.ReadLine();
 
             double Correlacion2 = F.obtenerCorrelacion(DatosProxy, DatosHoras);
-            Console.WriteLine("Correlación: " + Correlacion2);
-            Console.WriteLine("Correlación cuadrada: " + Math.Pow(Correlacion2, 2));
+            Console.WriteLine("Correlaciï¿½n: " + Correlacion2);
+            Console.WriteLine("Correlaciï¿½n cuadrada: " + Math.Pow(Correlacion2, 2));
             double X2 = F.calcularX(DatosProxy, DatosHoras);
             double cola2 = F.calcularCola(X2, DatosProxy.Count);
             Console.WriteLine("Cola: " + "{0:#.#####e+00}", cola2);
@@ -109,7 +109,7 @@ namespace Programa7
 /// CLASE PARA ENCONTRAR X DE UNA INTEGRAL
 /// Programa No.    -> 6
 /// *Descripcion.   -> Encuentra la X necesaria del resultado de una integral 
-/// *Desarrollador. -> Alfonso Alvarez Sánchez
+/// *Desarrollador. -> Alfonso Alvarez Sï¿½nchez
 /// *Fecha.         -> 28 / 10 / 2011
 /// Equipo          -> Individual
 /// Notas           -> Calcula la x en una integral  
@@ -165,10 +165,10 @@ namespace Programa7
 /// CLASE PARA CALCULAR INTEGRAL PROGRAMA 5
 /// Programa No.    -> 5
 /// *Descripcion.   -> Hace un calculo de intgral de cero a un limite. 
-/// *Desarrollador. -> Alfonso Alvarez Sánchez
+/// *Desarrollador. -> Alfonso Alvarez Sï¿½nchez
 /// *Fecha.         -> 20 / 10 / 2011
 /// Equipo          -> Individual
-/// Notas           -> Calcula integral en ciertos parámetros.  
+/// Notas           -> Calcula integral en ciertos parï¿½metros.  
 ///////////////////////////////////////////////
 using System;
 using System.Collections.Generic;
