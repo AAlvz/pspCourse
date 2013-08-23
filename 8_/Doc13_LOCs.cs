@@ -336,7 +336,7 @@ namespace Programa8
 /// CLASE PARA ENCONTRAR X DE UNA INTEGRAL
 /// Programa No.    -> 6
 /// *Descripcion.   -> Encuentra la X necesaria del resultado de una integral 
-/// *Desarrollador. -> Alfonso Alvarez Sánchez
+/// *Desarrollador. -> Alfonso Alvarez Sï¿½nchez
 /// *Fecha.         -> 28 / 10 / 2011
 /// Equipo          -> Individual
 /// Notas           -> Calcula la x en una integral  
@@ -392,10 +392,10 @@ namespace Programa8
 /// CLASE PARA CALCULAR INTEGRAL PROGRAMA 5
 /// Programa No.    -> 5
 /// *Descripcion.   -> Hace un calculo de intgral de cero a un limite. 
-/// *Desarrollador. -> Alfonso Alvarez Sánchez
+/// *Desarrollador. -> Alfonso Alvarez Sï¿½nchez
 /// *Fecha.         -> 20 / 10 / 2011
 /// Equipo          -> Individual
-/// Notas           -> Calcula integral en ciertos parámetros.  
+/// Notas           -> Calcula integral en ciertos parï¿½metros.  
 ///////////////////////////////////////////////
 using System;
 using System.Collections.Generic;
@@ -562,10 +562,10 @@ namespace Programa8
         }
         //TERMINA METODO RESOLVER GAUSS
 
-        //EMPIEZA METODO MUESTRA SOLUCIÓN
+        //EMPIEZA METODO MUESTRA SOLUCIï¿½N
         public double[] ShowSolution(double[] r)
         {
-            Console.WriteLine("Solución por Eliminación Gaussiana");
+            Console.WriteLine("Soluciï¿½n por Eliminaciï¿½n Gaussiana");
             double[] resultados = new double[r.GetLength(0)];
             for (int i = 0; i <= r.GetUpperBound(0); i++)
             {
@@ -575,7 +575,7 @@ namespace Programa8
             Console.WriteLine("\n");
             return resultados;
         }
-        //TERMINA METODO MUESTRA SOLUCIÓN 
+        //TERMINA METODO MUESTRA SOLUCIï¿½N 
 
         //EMPIEZA METODO SIGNO A STRING
         static private string ToStringSign(double v)
